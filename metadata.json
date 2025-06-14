@@ -1,0 +1,6 @@
+{
+  "name": "MTSS Intervention Program Builder",
+  "description": "A web application to assist in building MTSS (Multi-Tiered System of Supports) intervention and support plans. It guides users through defining goals, planning tiered interventions, identifying core actions, partners, resources, and creating an operational plan.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
